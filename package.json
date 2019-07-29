@@ -1,5 +1,5 @@
 {
-  "name": "@tsdoc.org/example",
+  "name": "tsdoc-example",
   "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
@@ -20,7 +20,7 @@
   },
   "jest": {
     "testPathIgnorePatterns": [
-      "node_modules"
+      "node_modules",
     ]
   },
   "dependencies": {
